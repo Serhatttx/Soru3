@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Soru3", "Soru3\Soru3.vcxproj", "{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Debug|x64.ActiveCfg = Debug|x64
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Debug|x64.Build.0 = Debug|x64
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Debug|x86.Build.0 = Debug|Win32
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Release|x64.ActiveCfg = Release|x64
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Release|x64.Build.0 = Release|x64
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Release|x86.ActiveCfg = Release|Win32
+		{D6825BA4-DC2F-44E2-B117-E63FF9547A6E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3D960A-0CC2-4EF7-A0C2-EB9E0534561C}
+	EndGlobalSection
+EndGlobal
